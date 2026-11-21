@@ -1,14 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tahsin Rahman</h1>
 <h3 align="center">Web Developer, AI Engineers</h3>
 
-<p align="center">
-[<img src="https://img.shields.io/badge/GitHub-102216?style=for-the-badge&logo=github&logoColor=11d452"/>](https://github.com/iamtahsinrahman)
-[<img src="https://img.shields.io/badge/Twitter-102216?style=for-the-badge&logo=x&logoColor=11d452"/>](https://twitter.com/https://x.com/TahsinRahm5g)
-[<img src="https://img.shields.io/badge/Email-102216?style=for-the-badge&logo=gmail&logoColor=11d452"/>](mailto:tahsinrahman34579@gmail.com)
-[<img src="https://img.shields.io/badge/Instagram-102216?style=for-the-badge&logo=instagram&logoColor=11d452"/>](https://instagram.com/https://www.instagram.com/tahsinrahman34576/)
-[<img src="https://img.shields.io/badge/YouTube-102216?style=for-the-badge&logo=youtube&logoColor=11d452"/>](https://youtube.com/@https://www.youtube.com/@TahsinRahman-b5e3j)
-[<img src="https://img.shields.io/badge/Twitch-102216?style=for-the-badge&logo=twitch&logoColor=11d452"/>](https://twitch.tv/https://x.com/TahsinRahm5g)
-</p>
+
 
 <hr/>
 
@@ -67,6 +60,14 @@ My goal is to become a professional AI Automation Developer and build useful, re
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/CSS3-102216?style=for-the-badge&logo=css3&logoColor=11d452" alt="CSS3"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+</p>
+<p align="center">
+[<img src="https://img.shields.io/badge/GitHub-102216?style=for-the-badge&logo=github&logoColor=11d452"/>](https://github.com/iamtahsinrahman)
+[<img src="https://img.shields.io/badge/Twitter-102216?style=for-the-badge&logo=x&logoColor=11d452"/>](https://twitter.com/https://x.com/TahsinRahm5g)
+[<img src="https://img.shields.io/badge/Email-102216?style=for-the-badge&logo=gmail&logoColor=11d452"/>](mailto:tahsinrahman34579@gmail.com)
+[<img src="https://img.shields.io/badge/Instagram-102216?style=for-the-badge&logo=instagram&logoColor=11d452"/>](https://instagram.com/https://www.instagram.com/tahsinrahman34576/)
+[<img src="https://img.shields.io/badge/YouTube-102216?style=for-the-badge&logo=youtube&logoColor=11d452"/>](https://youtube.com/@https://www.youtube.com/@TahsinRahman-b5e3j)
+[<img src="https://img.shields.io/badge/Twitch-102216?style=for-the-badge&logo=twitch&logoColor=11d452"/>](https://twitch.tv/https://x.com/TahsinRahm5g)
 </p>
 
 ## 📊 GitHub Analytics
