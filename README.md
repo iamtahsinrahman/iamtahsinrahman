@@ -1,20 +1,4 @@
 
-<!-- Profile Cover Image -->
-<p align="center">
-  <img
-    src="./assets/profile-banner.jpg"
-    alt="Tahsin Rahman - Profile Banner"
-    width="100%"
-  />
-</p>
-
-<h1 align="center">
-  Hi 👋, I'm Tahsin Rahman
-</h1>
-
-<h3 align="center">
-  Python Developer | Web Developer | AI Automation Enthusiast
-</h3>
 
 <h1 align="center">Hi 👋, I'm Tahsin Rahman</h1>
 <h3 align="center">Web Developer, AI Engineers</h3>
